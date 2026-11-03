@@ -10,3 +10,5 @@ data/*
 #cache folders
 __pycache__
 .ipynb_checkpoints
+#others
+.vscode
