@@ -3,3 +3,4 @@ python-dotenv==1.2.4
 --extra-index-url https://vnstocks.com/api/packages
 vnstock==5.2.1
 google-cloud-bigquery==3.47.0
+pyarrow==26.0.1
